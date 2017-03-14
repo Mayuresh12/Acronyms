@@ -1,6 +1,6 @@
 # Acronyms
 acronyms/initialisms.
-Project Title
+Project Title :
 Acronyms
 
 Technology
